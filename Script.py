@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>HELO {}
+    START_TXT = """<b>HELO {}</b>
 
 <b>SWEETIE MY NAME IS  <a href=https://t.me/{}>{}</a>, I CAN PROVIDE YOU MOVIES, JUST SEND ME ONLY THE NAME OF THE MOVIE AND WATCH ME DO MY MAGIC!!!</b> 
 
